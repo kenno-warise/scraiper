@@ -1,6 +1,6 @@
 import unittest
 
-from scraping import Scp
+from scraper import Scp
 # from scraping import set_url_and_tag
 # import scraping
 
