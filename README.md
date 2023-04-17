@@ -1,4 +1,4 @@
-# scraper
+# WebScraping
 
 簡易的なWebスクレイピングパッケージです。
 
@@ -9,13 +9,13 @@
 ```bash
 $ pip install --upgrade pip
 
-$ pip install git+https://github.com/kenno-warise/scraper.git
+$ pip install git+https://github.com/kenno-warise/webscraping.git
 ```
 
 ### 使用方法
 
 ```
->>> from scraper import Scp
+>>> from webscraping import Scp
 >>>
 >>> scp = Scp()
 >>> url = 'https://...'
