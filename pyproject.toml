@@ -3,7 +3,7 @@ requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [project]
-name = "scraper"
+name = "webscraping"
 version = "0.0.1"
 authors = [
     { name="kenno warise"},
@@ -28,5 +28,5 @@ dev = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/kenno-warise/scraper"
-"Bug Tracker" = "https://github.com/kenno-warise/scraper/issues"
+"Homepage" = "https://github.com/kenno-warise/webscraping"
+"Bug Tracker" = "https://github.com/kenno-warise/webscraping/issues"
